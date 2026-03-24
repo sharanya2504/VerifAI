@@ -1,8 +1,8 @@
-# 🔍 Veritas AI - Fact & Claim Verification System
+# 🔍 VeritfAI - Fact & Claim Verification System
 
 <div align="center">
 
-![Veritas AI Banner](https://img.shields.io/badge/Veritas-AI%20Fact%20Checker-blue?style=for-the-badge)
+![Veritas AI Banner](https://img.shields.io/badge/VeritfAI%20Fact%20Checker-blue?style=for-the-badge)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 [![Node](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen?style=for-the-badge)](https://nodejs.org)
 [![React](https://img.shields.io/badge/react-19.2.4-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org)
@@ -35,7 +35,7 @@
 
 ## 🌟 Overview
 
-Veritas AI addresses the critical challenge of misinformation and AI-generated content by providing an automated, multi-agent fact-checking pipeline that:
+VerifAI addresses the critical challenge of misinformation and AI-generated content by providing an automated, multi-agent fact-checking pipeline that:
 
 1. **Extracts** atomic, verifiable claims from complex text
 2. **Retrieves** evidence from authoritative web sources
